@@ -1,0 +1,14 @@
+<link rel="stylesheet" href="../style.css" type="text/css">
+
+<title>The Market Ticker  Error: Banned IP Address</title>
+<body class="error">
+<div class="errorhead">Banned IP Address</div>
+<div class="errortext">
+This IP address [34.226.198.145] is barred from all access to the forum.<p>
+Either this address is associated with an anonymous proxy service of some
+kind, or it has been flagged as belonging to or being used by someone who
+has abused the forum.<p>
+<p>
+Thank you<br>
+Forum Management
+</div>
